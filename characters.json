@@ -1,0 +1,327 @@
+[
+    {
+        "name":"Tsubaki",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Yuuka","Marina","Haruna NY","Hoshino SS","Atsuko"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Hasumi T","Iroha","Shun MILF","Iori","Aris","Mutsuki NY","Mashiro SS"]
+        }
+    },
+    {
+        "name":"Mika",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Tsubaki","Mika","Yuuka","Iroha","Marina","Hoshino SS","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["0"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Hasumi T","Iroha","Shun MILF","Iori","Haruna NY","Nagisa","Mashiro SS"]
+        }
+    },
+    {
+        "name":"Yuuka",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Iroha","Iori"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Mika","Yuuka","Hasumi T","Marina","Aris","Hoshino SS","Atsuko","Haruna NY"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Shun MILF","Iori","Nagisa"]
+        }
+    },
+    {
+        "name":"Hasumi T",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Tsubaki","Mika","Hasumi T","Hoshino SS","Mutsuki NY","Atsuko","Aris"]
+        },
+        "Resistant":{
+            "Characters":["Yuuka","Marina"]
+        },
+        "Dangerous":{
+            "Characters":["Iroha","Shun MILF","Iori","Haruna NY","Nagisa","Aris","Mutsuki NY","Haruka NY","Mashiro SS"]
+        }
+    },
+    {
+        "name":"Iroha",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Tsubaki","Mika","Hasumi T","Iroha","Shun MILF","Iori","Aris","Hoshino SS","Mutsuki NY","Megu","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["Yuuka","Marina"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Yuuka","Hasumi T","Iroha","Himari","Shun MILF","Marina","Iori","Nagisa","Aris"]
+        }
+    },
+    {
+        "name":"Himari",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Iroha","Iori"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Mika","Yuuka","Hasumi T","Shun MILF","Marina","Haruna NY","Aris","Hoshino SS","Mutsuki NY","Megu","Atsuko"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Shun MILF",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Mika","Hasumi T","Iroha","Shun MILF","Marina","Iori","Haruka NY","Aris","Hoshino SS","Mutsuki NY","Megu","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Yuuka"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Iroha","Shun MILF","Marina","Iori","Haruna NY","Nagisa","Aris"]
+        }
+    },
+    {
+        "name":"Marina",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["Pendiente"]
+        }
+    },
+    {
+        "name":"Iori",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Tsubaki","Mika","Yuuka","Hasumi T","Iroha","Shun MILF","Marina","Iori","Hoshino SS","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["Marina"]
+        },
+        "Dangerous":{
+            "Characters":["Tsubaki","Mika","Iroha","Himari","Shun MILF","Iori","Haruna NY","Nagisa","Mutsuki NY","Haruka NY"]
+        }
+    },
+    {
+        "name":"Haruna NY",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["Pendiente"]
+        }
+    },
+    {
+        "name":"Nodoka HS",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["0"]
+        },
+        "Resistant":{
+            "Characters":["ALL"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Nagisa",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Mika","Hasumi T","Iroha","Shun MILF","Iori","Haruna NY","Hoshino SS","Mutsuki NY","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Yuuka","Marina","Atsuko"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Serina",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["0"]
+        },
+        "Resistant":{
+            "Characters":["ALL"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Aris",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["Pendiente"]
+        }
+    },
+    {
+        "name":"Hoshino SS",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Shun MILF","Hoshino SS"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Mika","Yuuka","Marina","Atsuko"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Hasumi T","Iroha","Shun MILF","Iori","Haruna NY","Nagisa","Mutsuki NY","Haruka NY"]
+        }
+    },
+    {
+        "name":"Mutsuki NY",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Tsubaki","Hasumi T","Iroha","Shun MILF","Iori","Haruna NY","Aris","Hoshino SS","Mutsuki NY","Megu","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["Mika","Marina"]
+        },
+        "Dangerous":{
+            "Characters":["Iori","Shun MILF","Iroha","Haruna NY","Nagisa","Mutsuki NY","Haruka NY"]
+        }
+    },
+    {
+        "name":"Megu",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["Pendiente"]
+        }
+    },
+    {
+        "name":"Haruka NY",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Fuuka NY",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["0"]
+        },
+        "Resistant":{
+            "Characters":["ALL"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Atsuko",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Shun MILF"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Mika","Yuuka","Hasumi T","Marina","Hoshino SS","Atsuko"]
+        },
+        "Dangerous":{
+            "Characters":["Mika","Hasumi T","Iroha","Shun MILF","Iori","Mutsuki NY","Haruka NY"]
+        }
+    },
+    {
+        "name":"Hibiki",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Mashiro SS",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Pendiente"]
+        },
+        "Resistant":{
+            "Characters":["Pendiente"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    },
+    {
+        "name":"Ayame",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["Tsubaki","Mika","Yuuka","Marina","Hoshino SS","Megu","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["0"]
+        },
+        "Dangerous":{
+            "Characters":["Iroha","Himari","Hibiki","Shun MILF","Marina","Iori","Haruna NY","Aris","Mutsuki NY"]
+        }
+    },
+    {
+        "name":"Aru",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Mika","Marina","Iori","Hoshino SS","Megu"]
+        },
+        "Resistant":{
+            "Characters":["Tsubaki","Yuuka","Atsuko"]
+        },
+        "Dangerous":{
+            "Characters":["Iroha","Nagisa","Hibiki","Mika","Shun MILF","Marina","Iori","Haruna NY","Aris","Mutsuki NY"]
+        }
+    },
+    {
+        "name":"Junko",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["Tsubaki","Mika","Yuuka","Hoshino SS","Atsuko"]
+        },
+        "Resistant":{
+            "Characters":["Marina"]
+        },
+        "Dangerous":{
+            "Characters":["Iroha","Nagisa","Mika","Shun MILF","Iori","Haruna NY","Aris","Mutsuki NY","Aru", "Junko"]
+        }
+    }
+] 

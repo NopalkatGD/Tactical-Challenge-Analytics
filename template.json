@@ -1,0 +1,29 @@
+[
+    {
+        "name":"",
+        "type":"Stricker",
+        "vulnerable":{
+            "Characters":["p1","p2","p3"]
+        },
+        "Resistant":{
+            "Characters":["p1","p2","p3"]
+        },
+        "Dangerous":{
+            "Characters":["p1","p2","p3"]
+        }
+    },
+    {
+        "name":"",
+        "type":"Special",
+        "vulnerable":{
+            "Characters":["p1","p2","p3"]
+        },
+        "Resistant":{
+            "Characters":["ALL"]
+        },
+        "Dangerous":{
+            "Characters":["0"]
+        }
+    }
+
+]
